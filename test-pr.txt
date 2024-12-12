@@ -1,2 +1,3 @@
 test
 synchronize
+test-exclude
